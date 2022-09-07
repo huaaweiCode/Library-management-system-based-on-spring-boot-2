@@ -1,8 +1,5 @@
 # 基于SSM 的图书馆管理系统
 
-扫描下方，回复 **“图书馆3** ” ，以获取完整版的项目代码。
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220506172129.jpg)
 
 ## 1、项目介绍
 
@@ -61,14 +58,6 @@ eclipse、idea、myEclipse
 ### 4.6 ER图
 
 ![ER图](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220507180351.png)
-
-## 5、获取方法
-
-扫描下方，回复关键词  ：**图书馆3** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 
 
